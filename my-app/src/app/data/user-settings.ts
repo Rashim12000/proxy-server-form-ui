@@ -1,7 +1,7 @@
 export interface UserSettings {
     name: string;
-    emailOffers: boolean;
-    interfaceStyle: string;
+    savePayment: boolean;
+    amount: string;
     subscriptionType: string;
     notes: string;
 }
