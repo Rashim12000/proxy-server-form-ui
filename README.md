@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Form validation in Angular -https://thecodebuzz.com/form-validation-in-angular-8/
+=======
+# MyApp
+>>>>>>> 785c0575a18d4cd3e6a42328d98bc37a14996968
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
